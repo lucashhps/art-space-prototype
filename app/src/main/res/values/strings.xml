@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="lucas_henrique">Lucas Henrique (2023)</string>
+    <string name="anonymous_artist">Anonymous Artist (2023)</string>
+    <string name="mysterious_name">Mysterious Name (2023)</string>
+    <string name="eclipse">Eclipse</string>
+    <string name="hotel_globo">Hotel Globo</string>
+    <string name="hotel_globo_view">Hotel Globo\'s View</string>
+    <string name="happy_night">Happy Night</string>
+
+</resources>
